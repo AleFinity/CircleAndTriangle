@@ -1,0 +1,8 @@
+C:\Users\solne\source\repos\CircleAndTriangle\CircleAndTriangle\bin\Debug\netstandard2.0\CircleAndTriangle.deps.json
+C:\Users\solne\source\repos\CircleAndTriangle\CircleAndTriangle\bin\Debug\netstandard2.0\CircleAndTriangle.dll
+C:\Users\solne\source\repos\CircleAndTriangle\CircleAndTriangle\bin\Debug\netstandard2.0\CircleAndTriangle.pdb
+C:\Users\solne\source\repos\CircleAndTriangle\CircleAndTriangle\obj\Debug\netstandard2.0\CircleAndTriangle.csprojAssemblyReference.cache
+C:\Users\solne\source\repos\CircleAndTriangle\CircleAndTriangle\obj\Debug\netstandard2.0\CircleAndTriangle.AssemblyInfoInputs.cache
+C:\Users\solne\source\repos\CircleAndTriangle\CircleAndTriangle\obj\Debug\netstandard2.0\CircleAndTriangle.AssemblyInfo.cs
+C:\Users\solne\source\repos\CircleAndTriangle\CircleAndTriangle\obj\Debug\netstandard2.0\CircleAndTriangle.dll
+C:\Users\solne\source\repos\CircleAndTriangle\CircleAndTriangle\obj\Debug\netstandard2.0\CircleAndTriangle.pdb
