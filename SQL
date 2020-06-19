@@ -1,0 +1,4 @@
+SELECT ProductName, Category 
+FROM Products 
+LEFT JOIN Categories 
+ON Products.idProduct=Categories.idProduct;
